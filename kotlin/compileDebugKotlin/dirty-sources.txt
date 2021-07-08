@@ -1,0 +1,6 @@
+/Users/viralpatel/codelab-friendlychat-android/build-android-start/app/src/main/java/com/google/firebase/codelab/friendlychat/MyButtonObserver.kt
+/Users/viralpatel/codelab-friendlychat-android/build-android-start/app/src/main/java/com/google/firebase/codelab/friendlychat/FriendlyMessageAdapter.kt
+/Users/viralpatel/codelab-friendlychat-android/build-android-start/app/src/main/java/com/google/firebase/codelab/friendlychat/MyScrollToBottomObserver.kt
+/Users/viralpatel/codelab-friendlychat-android/build-android-start/app/src/main/java/com/google/firebase/codelab/friendlychat/model/FriendlyMessage.kt
+/Users/viralpatel/codelab-friendlychat-android/build-android-start/app/src/main/java/com/google/firebase/codelab/friendlychat/MainActivity.kt
+/Users/viralpatel/codelab-friendlychat-android/build-android-start/app/src/main/java/com/google/firebase/codelab/friendlychat/SignInActivity.kt
